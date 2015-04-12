@@ -128,7 +128,7 @@ header h2 {
 .box-work {
     width: 100%;
     text-align: center;
-    margin-bottom: 30px;
+    margin: 0 auto 30px;
     font-weight: lighter;
 }
 
